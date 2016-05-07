@@ -1,8 +1,0 @@
-"Advertisements"
-{
-    "1"
-    {
-        "type"        "S"
-        "text"        "Server hosted by {GREEN}http://steamcommunity.com/groups/PenguinsPub"
-    }
-}
